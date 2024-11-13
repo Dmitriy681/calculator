@@ -35,3 +35,5 @@ for i in range(n):
     for j in range(n):
         if int(i >= j) and int(i >= n - 1 -j):
             print(l[i][j])
+
+#
